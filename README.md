@@ -3,8 +3,6 @@
 
 [![HitCount](http://hits.dwyl.com/TanmayThaker/TanmayThaker.svg)](http://hits.dwyl.com/TanmayThaker/TanmayThaker)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on making Machine learning projects.
 - 🌱 I’m learning everday and I am currently learning Genetic Algorithms.
 - 💬 Ask me about my projects!
