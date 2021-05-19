@@ -14,8 +14,7 @@ const Tanmay = {
     technologies: {
         frontEnd : ["HTML","CSS","javascript","ReactJs"],
         backEnd: {
-            go: ["gin", "go-zero", "go-micro"],
-            java: ["Spring Boot"]
+            ["NodeJs"]
         },
         ML : ['Scikit-learn","Pandas","Numpy","Matplotlib","Seaborn"]
         DL: ["TensorFlow", "Keras"],
