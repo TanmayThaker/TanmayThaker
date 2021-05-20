@@ -30,7 +30,7 @@ const Tanmay = {
 
 ---
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=TanmayThaker&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=TanmayThaker&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![st papers](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Evaluating_Mathematical_Equations_Using_AI&theme=cobalt)](https://github.com/TanmayThaker/Evaluating_Mathematical_Equations_Using_AI)
