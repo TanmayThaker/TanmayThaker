@@ -30,12 +30,12 @@ const Tanmay = {
 
 ---
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=TanmayThaker&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=TanmayThaker&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![st papers](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Evaluating_Mathematical_Equations_Using_AI&theme=merko)](https://github.com/TanmayThaker/Evaluating_Mathematical_Equations_Using_AI)
-[![team-learning-program](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Mask-Detection&theme=merko)](https://github.com/TanmayThaker/Mask-Detection)
-[![team-learning](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Cement-Strength-Prediction&theme=merko)](https://github.com/TanmayThaker/Cement-Strength-Prediction)
+[![st papers](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Evaluating_Mathematical_Equations_Using_AI&theme=cobalt)](https://github.com/TanmayThaker/Evaluating_Mathematical_Equations_Using_AI)
+[![team-learning-program](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Mask-Detection&theme=cobalt)](https://github.com/TanmayThaker/Mask-Detection)
+[![team-learning](https://github-readme-stats.vercel.app/api/pin/?username=TanmayThaker&repo=Cement-Strength-Prediction&theme=cobalt)](https://github.com/TanmayThaker/Cement-Strength-Prediction)
 
 
 - 🔭 I’m currently working on making Machine learning projects.
