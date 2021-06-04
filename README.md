@@ -18,7 +18,7 @@ const Tanmay = {
         },
         ML : ['Scikit-learn","Pandas","Numpy","Matplotlib","Seaborn"]
         DL: ["TensorFlow", "Keras"],
-        Databases: ["MongoDB", "MySQL"]
+        Databases: ["MySQL"]
     },
     
     currentFocus: "Data Structures and Algorithms",
