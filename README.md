@@ -16,7 +16,7 @@ const Tanmay = {
         backEnd: {
             ["NodeJs"]
         },
-        ML : ['Scikit-learn","Pandas","Numpy","Matplotlib","Seaborn"]
+        ML : ['Scikit-learn","Pandas","Numpy","Matplotlib","Seaborn"],
         DL: ["TensorFlow", "Keras"],
         Databases: ["MySQL"]
     },
