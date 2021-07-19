@@ -1,8 +1,8 @@
 ### Hi there 👋 ，I'm Tanmay 🙋‍♂️
 You can call me super if you like.
 
-- Full Stack Web Developement + Machine learning is something I'm interested in.
-- MERN Stack is an area I'm focusing on right now.
+- App Development + Machine learning is something I'm interested in.
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
